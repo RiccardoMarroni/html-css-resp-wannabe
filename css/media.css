@@ -18,18 +18,12 @@
         display: inline-block;
     }
 
-    .col{
-        margin: 0 auto;
-        width: 200px;
-    }
-
-    .text{
-        
-    }
-
-    .card{
+    .lesson .col,
+    .steps .col,
+    .why-us, .col-lef,
+    .why-us, .col-right
+    {
         width: 100%;
-        height: 80%;
-
+        margin-bottom: 50px;
     }
 }
